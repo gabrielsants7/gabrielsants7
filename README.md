@@ -26,11 +26,3 @@ A developer in training focused on backend and frontend development.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielaraujosantos/)
 
 ---
-
-## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielsants7&show_icons=true&theme=dark)
-
----
-
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsants7&layout=compact&theme=dark)
