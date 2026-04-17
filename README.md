@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Gabriel Santos
 
-<!--
-**gabrielsants7/gabrielsants7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação focado em backend e frontend.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 📚 Estudando desenvolvimento web
+- 💻 Projetos com Python, JS e HTML/CSS
+- 📈 Evoluindo constantemente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+
+## 📫 Contato
+- Email: seuemail@gmail.com
+- LinkedIn: seu-link
